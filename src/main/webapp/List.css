@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+.bg-info-custom {
+	background-color: #210070;
+}
+
+.bg-secondary-custom {
+	background-color: #6ae5cb;
+}
+
+.add-employee {
+	width: 200px;
+	height: 50px;
+	border: 1px solid black;
+	background-color:#0a1d80;
+	display: flex;
+	border-radius: 5px;
+	justify-content: center;
+	align-items: center;
+}
+
+.bg-std {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.carousel-indicators{
+	width: 70%;
+	height:10px;
+	gap: 10px;
+}
+
+.carousel-control-prev{
+	position: absolute;
+	border: none;
+	width: 50px;
+	height: 50px;
+	top: 50%;
+	left: 0;
+	background-color: lightgrey;
+}
+
+.carousel-control-next{
+	position: absolute;
+	border: none;
+	width: 50px;
+	height: 50px;
+	top: 50%;
+	right: 0;
+	background-color: lightgrey;
+}
+
+.custom-container{
+	padding-top: 250px;
+	padding-bottom: 250px;
+}
+
+
